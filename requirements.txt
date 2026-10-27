@@ -1,0 +1,3 @@
+# Tkinter is also required (part of Python; on Linux install your distro's python3-tk package)
+reportlab>=3.6
+pillow>=9.0

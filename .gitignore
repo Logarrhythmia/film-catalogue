@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Exports
+*.html
+*.csv
+*.pdf
+!docs/*.pdf
